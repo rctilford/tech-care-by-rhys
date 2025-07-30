@@ -1,5 +1,4 @@
 baseURL = "https://rctilford.github.io/tech-care-by-rhys/"
-relativeURLs = true
 languageCode = "en-us"
 title = "Tech Care by Rhys"
 
