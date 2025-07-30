@@ -15,11 +15,6 @@ enableEmoji = true
 # Enable Git info for lastmod
 enableGitInfo = true
 
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
 # Enable taxonomies
 [taxonomies]
   category = 'categories'
@@ -32,7 +27,7 @@ paginatePath = "page"
 [params]
   description = ""
   author = "Rhys Tilford"
-  logo = "images/logo.svg"
+  logo = "/images/logo.svg"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   # googleAnalytics = "G-XXXXXXXXXX"
   
@@ -46,10 +41,10 @@ paginatePath = "page"
     gradient_angle = 30
     [params.cta.primary_button]
       text = "Pricing"
-      url = "pricing"
+      url = "/pricing"
     [params.cta.secondary_button]
       text = "Book Consult"
-      url = "book-consult"
+      url = "/book-consult"
   
   # Social Media Links
   [params.social]
@@ -70,7 +65,7 @@ paginatePath = "page"
     
     # Logo configuration
     [params.header.logo]
-      src = "images/logo.svg"
+      src = "/images/logo.svg"
     
     # Menu configuration
     [params.header.menu]
@@ -94,12 +89,12 @@ paginatePath = "page"
       # Sign In button
       [params.header.buttons.signIn]
         text = "Sign in"
-        url = "signin"
+        url = "/signin"
       
       # Get Started button
       [params.header.buttons.getStarted]
         text = "Book Consult"
-        url = "book-consult"
+        url = "/book-consult"
 
   # Blog configuration
   [params.blog]
@@ -177,17 +172,17 @@ paginatePath = "page"
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Cassette Digitization", url = "services/media-digitization" },
-        { name = "Virus Removal and OS Recovery", url = "services/virus-removal" },
-        { name = "File Conversion", url = "services/file-conversion" }
+        { name = "Cassette Digitization", url = "/services/media-digitization" },
+        { name = "Virus Removal and OS Recovery", url = "/services/virus-removal" },
+        { name = "File Conversion", url = "/services/file-conversion" }
       ]
   [[menu.main]]
     name = "Pricing"
-    url = "pricing"
+    url = "/pricing"
     weight = 2
   [[menu.main]]
     name = "Blog"
-    url = "blog"
+    url = "/blog"
     weight = 3
   [[menu.main]]
     name = "Company"
@@ -195,44 +190,44 @@ paginatePath = "page"
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "About Me", url = "company" },
-        { name = "Contact Me", url = "careers" }
+        { name = "About Me", url = "/company" },
+        { name = "Contact Me", url = "/careers" }
       ]
 
   # Footer Column 1 Menu
   [[menu.footer_column_1]]
     name = "Cassette Digitization"
-    url = "services/performance/"
+    url = "/services/performance/"
     weight = 1
   [[menu.footer_column_1]]
     name = "Virus Removal and OS Recovery"
-    url = "services/design-system/"
+    url = "/services/design-system/"
     weight = 2
   [[menu.footer_column_1]]
     name = "File Conversion"
-    url = "services/developer-experience/"
+    url = "/services/developer-experience/"
     weight = 3
 
   # Footer Column 2 Menu
   [[menu.footer_column_2]]
     name = "Blog"
-    url = "blog"
+    url = "/blog"
     weight = 1
   [[menu.footer_column_2]]
     name = "About Us"
-    url = "company"
+    url = "/company"
     weight = 2
   [[menu.footer_column_2]]
     name = "Get In Touch"
-    url = "careers"
+    url = "/careers"
     weight = 3
 
   # Footer Column 3 Menu
   [[menu.footer_column_3]]
     name = "License"
-    url = "license"
+    url = "/license"
     weight = 1
   [[menu.footer_column_3]]
     name = "Privacy Policy"
-    url = "privacy"
+    url = "/privacy"
     weight = 2
