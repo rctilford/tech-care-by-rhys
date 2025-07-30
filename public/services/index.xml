@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Services on Tech Care by Rhys</title><link>https://rctilford.github.io/tech-care-by-rhys/services/</link><description>Recent content in Services on Tech Care by Rhys</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://rctilford.github.io/tech-care-by-rhys/services/index.xml" rel="self" type="application/rss+xml"/><item><title>Beautiful Design System</title><link>https://rctilford.github.io/tech-care-by-rhys/services/file-conversion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/services/file-conversion/</guid><description>&lt;h2 id="comprehensive-design-system">Comprehensive Design System&lt;/h2>
+&lt;p>Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.&lt;/p>
+&lt;h3 id="design-components">Design Components&lt;/h3>
+&lt;h4 id="core-elements">Core Elements&lt;/h4>
+&lt;ul>
+&lt;li>Typography system with perfect vertical rhythm&lt;/li>
+&lt;li>Color palette with semantic variables&lt;/li>
+&lt;li>Spacing and sizing scales&lt;/li>
+&lt;li>Grid and layout systems&lt;/li>
+&lt;/ul>
+&lt;h4 id="ui-components">UI Components&lt;/h4>
+&lt;ul>
+&lt;li>Navigation components (headers, footers, menus)&lt;/li>
+&lt;li>Hero sections and feature displays&lt;/li>
+&lt;li>Cards and content containers&lt;/li>
+&lt;li>Forms and input elements&lt;/li>
+&lt;li>Buttons and CTAs&lt;/li>
+&lt;li>Pricing tables&lt;/li>
+&lt;li>Testimonial displays&lt;/li>
+&lt;li>Team member profiles&lt;/li>
+&lt;/ul>
+&lt;h4 id="design-features">Design Features&lt;/h4>
+&lt;h5 id="customization">Customization&lt;/h5>
+&lt;ul>
+&lt;li>Easy theme customization through TailwindCSS&lt;/li>
+&lt;li>Brand color management&lt;/li>
+&lt;li>Typography customization&lt;/li>
+&lt;li>Spacing system adjustment&lt;/li>
+&lt;li>Component variants&lt;/li>
+&lt;/ul>
+&lt;h5 id="accessibility">Accessibility&lt;/h5>
+&lt;ul>
+&lt;li>WCAG 2.1 compliant components&lt;/li>
+&lt;li>Proper ARIA attributes&lt;/li>
+&lt;li>Keyboard navigation support&lt;/li>
+&lt;li>High contrast mode support&lt;/li>
+&lt;li>Screen reader optimized&lt;/li>
+&lt;/ul>
+&lt;h5 id="responsive-design">Responsive Design&lt;/h5>
+&lt;ul>
+&lt;li>Mobile-first approach&lt;/li>
+&lt;li>Breakpoint system&lt;/li>
+&lt;li>Fluid typography&lt;/li>
+&lt;li>Adaptive layouts&lt;/li>
+&lt;li>Touch-friendly interactions&lt;/li>
+&lt;/ul>
+&lt;p>Our design system provides the perfect foundation for creating beautiful, accessible, and responsive websites that stand out from the crowd.&lt;/p></description></item><item><title>Developer Experience</title><link>https://rctilford.github.io/tech-care-by-rhys/services/virus-removal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/services/virus-removal/</guid><description>&lt;h2 id="built-for-developers">Built for Developers&lt;/h2>
+&lt;p>Our theme is designed with developers in mind, providing a clean, efficient workflow that makes building websites enjoyable and productive.&lt;/p>
+&lt;h3 id="development-features">Development Features&lt;/h3>
+&lt;h4 id="project-structure">Project Structure&lt;/h4>
+&lt;ul>
+&lt;li>Logical directory organization&lt;/li>
+&lt;li>Clear separation of concerns&lt;/li>
+&lt;li>Modular component architecture&lt;/li>
+&lt;li>Consistent naming conventions&lt;/li>
+&lt;/ul>
+&lt;h4 id="development-workflow">Development Workflow&lt;/h4>
+&lt;ul>
+&lt;li>Fast hot reload development server&lt;/li>
+&lt;li>Automatic asset processing&lt;/li>
+&lt;li>Source maps for debugging&lt;/li>
+&lt;li>Build process optimization&lt;/li>
+&lt;/ul>
+&lt;h4 id="component-system">Component System&lt;/h4>
+&lt;h5 id="shortcodes">Shortcodes&lt;/h5>
+&lt;ul>
+&lt;li>Rich set of pre-built shortcodes&lt;/li>
+&lt;li>Easy to create custom shortcodes&lt;/li>
+&lt;li>Documentation for each shortcode&lt;/li>
+&lt;li>Example implementations&lt;/li>
+&lt;/ul>
+&lt;h5 id="partials">Partials&lt;/h5>
+&lt;ul>
+&lt;li>Reusable partial templates&lt;/li>
+&lt;li>Context-aware components&lt;/li>
+&lt;li>Easy to extend and modify&lt;/li>
+&lt;li>Clear documentation&lt;/li>
+&lt;/ul>
+&lt;h4 id="customization">Customization&lt;/h4>
+&lt;h5 id="configuration">Configuration&lt;/h5>
+&lt;ul>
+&lt;li>Central configuration file&lt;/li>
+&lt;li>Environment variables support&lt;/li>
+&lt;li>Feature flags&lt;/li>
+&lt;li>Easy theme customization&lt;/li>
+&lt;/ul>
+&lt;h5 id="styling">Styling&lt;/h5>
+&lt;ul>
+&lt;li>TailwindCSS integration&lt;/li>
+&lt;li>PostCSS processing&lt;/li>
+&lt;li>Custom CSS support&lt;/li>
+&lt;li>Design token system&lt;/li>
+&lt;/ul>
+&lt;h4 id="documentation">Documentation&lt;/h4>
+&lt;ul>
+&lt;li>Getting started guide&lt;/li>
+&lt;li>Component documentation&lt;/li>
+&lt;li>Configuration reference&lt;/li>
+&lt;li>Best practices&lt;/li>
+&lt;li>Troubleshooting guide&lt;/li>
+&lt;li>Deployment instructions&lt;/li>
+&lt;/ul>
+&lt;p>Our developer experience focuses on making it easy to build, customize, and maintain your website while following best practices and maintaining clean, efficient code.&lt;/p></description></item><item><title>Media Digitization</title><link>https://rctilford.github.io/tech-care-by-rhys/services/media-digitization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/services/media-digitization/</guid><description>&lt;h3 id="maximum-flexibility">Maximum Flexibility&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Output Options&lt;/strong>
+&lt;ul>
+&lt;li>&lt;strong>Digital File&lt;/strong>: Receive a digital file that can be stored on your computer or in the cloud.&lt;/li>
+&lt;li>&lt;strong>USB Drive&lt;/strong>: Plug into a computer or a television to see all of your media.&lt;/li>
+&lt;li>&lt;strong>Disk&lt;/strong>: View your media with any disk player.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
