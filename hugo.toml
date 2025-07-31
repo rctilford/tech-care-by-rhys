@@ -182,7 +182,7 @@ paginatePath = "page"
     weight = 2
   [[menu.main]]
     name = "About Me"
-    url = "about-me"
+    url = "/about-me"
     weight = 3
 
   # Footer Column 1 Menu
