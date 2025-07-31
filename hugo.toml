@@ -88,8 +88,8 @@ paginatePath = "page"
     [params.header.buttons]
       # Sign In button
       [params.header.buttons.signIn]
-        text = "Sign in"
-        url = "signin"
+        text = "Pricing"
+        url = "pricing"
       
       # Get Started button
       [params.header.buttons.getStarted]
@@ -176,10 +176,6 @@ paginatePath = "page"
         { name = "Virus Removal and OS Recovery", url = "services/virus-removal" },
         { name = "File Conversion", url = "services/file-conversion" }
       ]
-  [[menu.main]]
-    name = "Pricing"
-    url = "/pricing"
-    weight = 2
   [[menu.main]]
     name = "Blog"
     url = "/blog"
