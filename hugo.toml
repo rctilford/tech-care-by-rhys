@@ -89,12 +89,12 @@ paginatePath = "page"
       # Sign In button
       [params.header.buttons.signIn]
         text = "Sign in"
-        url = "/signin"
+        url = "signin"
       
       # Get Started button
       [params.header.buttons.getStarted]
         text = "Book Consult"
-        url = "/book-consult"
+        url = "book-consult"
 
   # Blog configuration
   [params.blog]
