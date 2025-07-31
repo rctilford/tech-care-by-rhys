@@ -47,9 +47,9 @@ testimonials:
 >}}
 
 {{< feature
-    title="Transfer cassette tapes to DVD or a usb drive"
-    description="It's becoming harder to find VHS players. Secure your family videos for generations to come."
-    badge='Preservation'
+    title="Transfer media to DVD or a usb drive"
+    description="It's becoming harder to find VHS players and tape players. Secure your family videos for generations to come."
+    badge="Preservation"
     badgeColor="#2563eb"
     image="images/feature-1.svg"
     buttonText="Learn More"

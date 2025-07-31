@@ -172,7 +172,7 @@ paginatePath = "page"
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Cassette Digitization", url = "services/media-digitization" },
+        { name = "Media Digitization", url = "services/media-digitization" },
         { name = "Virus Removal and OS Recovery", url = "services/virus-removal" },
         { name = "File Conversion", url = "services/file-conversion" }
       ]
@@ -192,7 +192,7 @@ paginatePath = "page"
 
   # Footer Column 1 Menu
   [[menu.footer_column_1]]
-    name = "Cassette Digitization"
+    name = "Media Digitization"
     url = "/services/media-digitization/"
     weight = 1
   [[menu.footer_column_1]]
