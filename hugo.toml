@@ -41,10 +41,10 @@ paginatePath = "page"
     gradient_angle = 30
     [params.cta.primary_button]
       text = "Pricing"
-      url = "/pricing"
+      url = "pricing"
     [params.cta.secondary_button]
       text = "Book Consult"
-      url = "/book-consult"
+      url = "book-consult"
   
   # Social Media Links
   [params.social]
