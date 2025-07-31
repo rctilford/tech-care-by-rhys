@@ -1,166 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Tech Care by Rhys</title><link>https://rctilford.github.io/tech-care-by-rhys/</link><description>Recent content in Home on Tech Care by Rhys</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://rctilford.github.io/tech-care-by-rhys/index.xml" rel="self" type="application/rss+xml"/><item><title>Product Manager</title><link>https://rctilford.github.io/tech-care-by-rhys/jobs/product-manager/</link><pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/jobs/product-manager/</guid><description>&lt;p>We&amp;rsquo;re looking for a Product Manager to join our team and help shape the future of our product.&lt;/p>
-&lt;h2 id="about-the-role">About the Role&lt;/h2>
-&lt;p>As a Product Manager, you&amp;rsquo;ll be responsible for:&lt;/p>
-&lt;ul>
-&lt;li>Defining and executing the product strategy and roadmap&lt;/li>
-&lt;li>Working closely with engineering, design, and marketing teams&lt;/li>
-&lt;li>Conducting user research and gathering customer feedback&lt;/li>
-&lt;li>Analyzing market trends and competitive landscape&lt;/li>
-&lt;li>Prioritizing features and managing the product backlog&lt;/li>
-&lt;/ul>
-&lt;h2 id="requirements">Requirements&lt;/h2>
-&lt;ul>
-&lt;li>4+ years of product management experience in SaaS&lt;/li>
-&lt;li>Strong analytical and problem-solving skills&lt;/li>
-&lt;li>Excellent communication and stakeholder management abilities&lt;/li>
-&lt;li>Experience with agile development methodologies&lt;/li>
-&lt;li>Data-driven decision making mindset&lt;/li>
-&lt;li>Technical background or ability to work closely with technical teams&lt;/li>
-&lt;/ul>
-&lt;h2 id="nice-to-have">Nice to Have&lt;/h2>
-&lt;ul>
-&lt;li>MBA or relevant advanced degree&lt;/li>
-&lt;li>Experience with B2B SaaS products&lt;/li>
-&lt;li>Background in UX design or software development&lt;/li>
-&lt;li>Experience with product analytics tools&lt;/li>
-&lt;li>Public speaking or presentation experience&lt;/li>
-&lt;/ul>
-&lt;h2 id="benefits">Benefits&lt;/h2>
-&lt;ul>
-&lt;li>Competitive salary and equity package&lt;/li>
-&lt;li>Comprehensive health, dental, and vision insurance&lt;/li>
-&lt;li>401(k) matching&lt;/li>
-&lt;li>Flexible PTO policy&lt;/li>
-&lt;li>Professional development budget&lt;/li>
-&lt;li>Wellness programs&lt;/li>
-&lt;li>Company-sponsored events&lt;/li>
-&lt;li>Office perks and snacks&lt;/li>
-&lt;/ul>
-&lt;h2 id="how-to-apply">How to Apply&lt;/h2>
-&lt;p>Please send your resume and a cover letter detailing your product management experience and why you&amp;rsquo;re interested in joining our team. Include examples of products you&amp;rsquo;ve managed and their impact.&lt;/p></description></item><item><title>Senior Frontend Developer</title><link>https://rctilford.github.io/tech-care-by-rhys/jobs/senior-frontend-developer/</link><pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/jobs/senior-frontend-developer/</guid><description>&lt;p>We&amp;rsquo;re looking for a Senior Frontend Developer to join our growing team and help shape the future of our SaaS platform.&lt;/p>
-&lt;h2 id="about-the-role">About the Role&lt;/h2>
-&lt;p>As a Senior Frontend Developer, you&amp;rsquo;ll be responsible for:&lt;/p>
-&lt;ul>
-&lt;li>Building and maintaining high-quality, reusable UI components&lt;/li>
-&lt;li>Collaborating with designers to implement pixel-perfect interfaces&lt;/li>
-&lt;li>Optimizing application performance and accessibility&lt;/li>
-&lt;li>Mentoring junior developers and reviewing code&lt;/li>
-&lt;li>Contributing to technical architecture decisions&lt;/li>
-&lt;/ul>
-&lt;h2 id="requirements">Requirements&lt;/h2>
-&lt;ul>
-&lt;li>5+ years of experience in frontend development&lt;/li>
-&lt;li>Expert knowledge of modern JavaScript, HTML, and CSS&lt;/li>
-&lt;li>Strong experience with React or Vue.js&lt;/li>
-&lt;li>Understanding of modern frontend build tools and workflows&lt;/li>
-&lt;li>Experience with responsive design and cross-browser compatibility&lt;/li>
-&lt;li>Strong communication skills and ability to work in a remote team&lt;/li>
-&lt;/ul>
-&lt;h2 id="nice-to-have">Nice to Have&lt;/h2>
-&lt;ul>
-&lt;li>Experience with TypeScript&lt;/li>
-&lt;li>Knowledge of testing frameworks (Jest, Cypress)&lt;/li>
-&lt;li>Contributions to open source projects&lt;/li>
-&lt;li>Experience with design systems&lt;/li>
-&lt;li>Understanding of backend technologies&lt;/li>
-&lt;/ul>
-&lt;h2 id="benefits">Benefits&lt;/h2>
-&lt;ul>
-&lt;li>Competitive salary and equity package&lt;/li>
-&lt;li>Flexible working hours&lt;/li>
-&lt;li>Remote-first culture&lt;/li>
-&lt;li>Health insurance&lt;/li>
-&lt;li>Learning and development budget&lt;/li>
-&lt;li>Annual team retreats&lt;/li>
-&lt;li>Home office setup allowance&lt;/li>
-&lt;/ul>
-&lt;h2 id="how-to-apply">How to Apply&lt;/h2>
-&lt;p>Please send your resume, portfolio, and a brief cover letter explaining why you&amp;rsquo;d be a great fit for our team. Include links to any relevant projects or open source contributions.&lt;/p></description></item><item><title>Content Management in Hugo: Best Practices</title><link>https://rctilford.github.io/tech-care-by-rhys/blog/content-management-hugo/</link><pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/blog/content-management-hugo/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
- &lt;h2 class="text-xl font-semibold mb-4">Table of Contents&lt;/h2>
- &lt;nav id="TableOfContents">
- &lt;ul>
- &lt;li>&lt;a href="#introduction">Introduction&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#content-organization">Content Organization&lt;/a>
- &lt;ul>
- &lt;li>&lt;a href="#directory-structure">Directory Structure&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#front-matter-templates">Front Matter Templates&lt;/a>&lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;li>&lt;a href="#content-types">Content Types&lt;/a>
- &lt;ul>
- &lt;li>&lt;a href="#page-bundles">Page Bundles&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#taxonomies">Taxonomies&lt;/a>&lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;li>&lt;a href="#content-workflow">Content Workflow&lt;/a>
- &lt;ul>
- &lt;li>&lt;a href="#draft-management">Draft Management&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#content-updates">Content Updates&lt;/a>&lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;li>&lt;a href="#dynamic-content">Dynamic Content&lt;/a>
- &lt;ul>
- &lt;li>&lt;a href="#related-content">Related Content&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#content-reuse">Content Reuse&lt;/a>&lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;li>&lt;a href="#seo-and-metadata">SEO and Metadata&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#content-backup">Content Backup&lt;/a>
- &lt;ul>
- &lt;li>&lt;a href="#backup-strategies">Backup Strategies&lt;/a>&lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;li>&lt;a href="#conclusion">Conclusion&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#resources">Resources&lt;/a>&lt;/li>
- &lt;/ul>
-&lt;/nav>
-&lt;/div>
-
-&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>Effective content management is crucial for maintaining a scalable Hugo site. This guide covers best practices for organizing and managing your content.&lt;/p>
-&lt;h2 id="content-organization">Content Organization&lt;/h2>
-&lt;h3 id="directory-structure">Directory Structure&lt;/h3>
-&lt;p>Create a logical content hierarchy:&lt;/p></description></item><item><title>Optimizing Hugo Performance: Speed Up Your Site</title><link>https://rctilford.github.io/tech-care-by-rhys/blog/optimizing-hugo-performance/</link><pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/blog/optimizing-hugo-performance/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
- &lt;h2 class="text-xl font-semibold mb-4">Table of Contents&lt;/h2>
- &lt;nav id="TableOfContents">
- &lt;ul>
- &lt;li>&lt;a href="#introduction">Introduction&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#asset-optimization">Asset Optimization&lt;/a>
- &lt;ul>
- &lt;li>&lt;a href="#image-optimization">Image Optimization&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#css-and-javascript">CSS and JavaScript&lt;/a>&lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;li>&lt;a href="#caching-strategies">Caching Strategies&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#content-delivery">Content Delivery&lt;/a>
- &lt;ul>
- &lt;li>&lt;a href="#cdn-setup">CDN Setup&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#edge-computing">Edge Computing&lt;/a>&lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;li>&lt;a href="#performance-monitoring">Performance Monitoring&lt;/a>
- &lt;ul>
- &lt;li>&lt;a href="#key-metrics">Key Metrics&lt;/a>&lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;li>&lt;a href="#advanced-optimization-techniques">Advanced Optimization Techniques&lt;/a>
- &lt;ul>
- &lt;li>&lt;a href="#resource-hints">Resource Hints&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#critical-css">Critical CSS&lt;/a>&lt;/li>
- &lt;/ul>
- &lt;/li>
- &lt;li>&lt;a href="#seo-optimization">SEO Optimization&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#conclusion">Conclusion&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#resources">Resources&lt;/a>&lt;/li>
- &lt;/ul>
-&lt;/nav>
-&lt;/div>
-
-&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>Performance is crucial for user experience and SEO. In this guide, we&amp;rsquo;ll explore various techniques to optimize your Hugo site for maximum performance.&lt;/p>
-&lt;h2 id="asset-optimization">Asset Optimization&lt;/h2>
-&lt;h3 id="image-optimization">Image Optimization&lt;/h3>
-&lt;p>Images often contribute the most to page weight. Here&amp;rsquo;s how to optimize them:&lt;/p></description></item><item><title>Deploying Hugo Sites: A Complete Guide</title><link>https://rctilford.github.io/tech-care-by-rhys/blog/deploying-hugo-sites/</link><pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/blog/deploying-hugo-sites/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Tech Care by Rhys</title><link>https://rctilford.github.io/tech-care-by-rhys/</link><description>Recent content in Home on Tech Care by Rhys</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://rctilford.github.io/tech-care-by-rhys/index.xml" rel="self" type="application/rss+xml"/><item><title>How To Freeze Your Credit Report &amp; Why You Probably Should</title><link>https://rctilford.github.io/tech-care-by-rhys/resources/credit-freeze-tutorial/</link><pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/resources/credit-freeze-tutorial/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
  &lt;h2 class="text-xl font-semibold mb-4">Table of Contents&lt;/h2>
  &lt;nav id="TableOfContents">
  &lt;ul>
@@ -229,7 +67,7 @@
 &lt;/div>
 
 &lt;h3 id="2-vercel">2. Vercel&lt;/h3>
-&lt;p>Vercel provides excellent performance and analytics.&lt;/p></description></item><item><title>Customizing Your Hugo Theme: A Deep Dive</title><link>https://rctilford.github.io/tech-care-by-rhys/blog/customizing-your-hugo-theme/</link><pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/blog/customizing-your-hugo-theme/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
+&lt;p>Vercel provides excellent performance and analytics.&lt;/p></description></item><item><title>How To Add Your Number To The National Do Not Call List</title><link>https://rctilford.github.io/tech-care-by-rhys/resources/do-not-call-tutorial/</link><pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/resources/do-not-call-tutorial/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
  &lt;h2 class="text-xl font-semibold mb-4">Table of Contents&lt;/h2>
  &lt;nav id="TableOfContents">
  &lt;ul>
@@ -261,7 +99,92 @@
 &lt;/div>
 
 &lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>While Hugo comes with many beautiful themes, you&amp;rsquo;ll often want to customize them to match your specific needs. This guide will walk you through the process of customizing your Hugo theme effectively.&lt;/p></description></item><item><title>Getting Started with Hugo: A Beginner's Guide</title><link>https://rctilford.github.io/tech-care-by-rhys/blog/getting-started-with-hugo/</link><pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/blog/getting-started-with-hugo/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
+&lt;p>While Hugo comes with many beautiful themes, you&amp;rsquo;ll often want to customize them to match your specific needs. This guide will walk you through the process of customizing your Hugo theme effectively.&lt;/p></description></item><item><title>How To Remove Your Info From Data Brokers</title><link>https://rctilford.github.io/tech-care-by-rhys/resources/data-broker-opt-out-tutorial/</link><pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/resources/data-broker-opt-out-tutorial/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
+ &lt;h2 class="text-xl font-semibold mb-4">Table of Contents&lt;/h2>
+ &lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#introduction">Introduction&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#content-organization">Content Organization&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#directory-structure">Directory Structure&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#front-matter-templates">Front Matter Templates&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#content-types">Content Types&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#page-bundles">Page Bundles&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#taxonomies">Taxonomies&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#content-workflow">Content Workflow&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#draft-management">Draft Management&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#content-updates">Content Updates&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#dynamic-content">Dynamic Content&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#related-content">Related Content&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#content-reuse">Content Reuse&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#seo-and-metadata">SEO and Metadata&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#content-backup">Content Backup&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#backup-strategies">Backup Strategies&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#conclusion">Conclusion&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#resources">Resources&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;/div>
+
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Effective content management is crucial for maintaining a scalable Hugo site. This guide covers best practices for organizing and managing your content.&lt;/p>
+&lt;h2 id="content-organization">Content Organization&lt;/h2>
+&lt;h3 id="directory-structure">Directory Structure&lt;/h3>
+&lt;p>Create a logical content hierarchy:&lt;/p></description></item><item><title>Optimizing Hugo Performance: Speed Up Your Site</title><link>https://rctilford.github.io/tech-care-by-rhys/resources/optimizing-hugo-performance/</link><pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/resources/optimizing-hugo-performance/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
+ &lt;h2 class="text-xl font-semibold mb-4">Table of Contents&lt;/h2>
+ &lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#introduction">Introduction&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#asset-optimization">Asset Optimization&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#image-optimization">Image Optimization&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#css-and-javascript">CSS and JavaScript&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#caching-strategies">Caching Strategies&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#content-delivery">Content Delivery&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#cdn-setup">CDN Setup&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#edge-computing">Edge Computing&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#performance-monitoring">Performance Monitoring&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#key-metrics">Key Metrics&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#advanced-optimization-techniques">Advanced Optimization Techniques&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#resource-hints">Resource Hints&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#critical-css">Critical CSS&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#seo-optimization">SEO Optimization&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#conclusion">Conclusion&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#resources">Resources&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;/div>
+
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Performance is crucial for user experience and SEO. In this guide, we&amp;rsquo;ll explore various techniques to optimize your Hugo site for maximum performance.&lt;/p>
+&lt;h2 id="asset-optimization">Asset Optimization&lt;/h2>
+&lt;h3 id="image-optimization">Image Optimization&lt;/h3>
+&lt;p>Images often contribute the most to page weight. Here&amp;rsquo;s how to optimize them:&lt;/p></description></item><item><title>Getting Started with Hugo: A Beginner's Guide</title><link>https://rctilford.github.io/tech-care-by-rhys/resources/getting-started-with-hugo/</link><pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/resources/getting-started-with-hugo/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
  &lt;h2 class="text-xl font-semibold mb-4">Table of Contents&lt;/h2>
  &lt;nav id="TableOfContents">
  &lt;ul>
@@ -288,7 +211,7 @@
 &lt;li>Great Community&lt;/li>
 &lt;/ol>
 &lt;h2 id="setting-up-your-first-hugo-site">Setting Up Your First Hugo Site&lt;/h2>
-&lt;p>Let&amp;rsquo;s walk through creating your first Hugo site:&lt;/p></description></item><item><title>About Me</title><link>https://rctilford.github.io/tech-care-by-rhys/company/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/company/</guid><description>&lt;section class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32">
+&lt;p>Let&amp;rsquo;s walk through creating your first Hugo site:&lt;/p></description></item><item><title>About Me</title><link>https://rctilford.github.io/tech-care-by-rhys/about-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/about-me/</guid><description>&lt;section class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32">
  &lt;div class="container mx-auto px-4">
  
  &lt;div class="text-center">
@@ -330,7 +253,7 @@
  
  &lt;/div>
  &lt;h3 class="text-xl font-bold mb-1">Rhys Tilford&lt;/h3>
- &lt;p class="text-gray-600">Data Analysis Student at Georgia Tech&lt;/p></description></item><item><title>Beautiful Design System</title><link>https://rctilford.github.io/tech-care-by-rhys/services/file-conversion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/services/file-conversion/</guid><description>&lt;h2 id="comprehensive-design-system">Comprehensive Design System&lt;/h2>
+ &lt;p class="text-gray-600">Data Analysis Student at Georgia Tech&lt;/p></description></item><item><title>Beautiful Design System</title><link>https://rctilford.github.io/tech-care-by-rhys/services/everything-else/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/services/everything-else/</guid><description>&lt;h2 id="comprehensive-design-system">Comprehensive Design System&lt;/h2>
 &lt;p>Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.&lt;/p>
 &lt;h3 id="design-components">Design Components&lt;/h3>
 &lt;h4 id="core-elements">Core Elements&lt;/h4>
@@ -546,8 +469,7 @@
 &lt;li>Troubleshooting guide&lt;/li>
 &lt;li>Deployment instructions&lt;/li>
 &lt;/ul>
-&lt;p>Our developer experience focuses on making it easy to build, customize, and maintain your website while following best practices and maintaining clean, efficient code.&lt;/p></description></item><item><title>Join Our Team</title><link>https://rctilford.github.io/tech-care-by-rhys/careers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/careers/</guid><description>&lt;p>At Saasify, we believe in empowering our team members to do their best work. We foster an environment of innovation, collaboration, and continuous learning. Our culture is built on trust, transparency, and a shared commitment to excellence.&lt;/p>
-&lt;p>We&amp;rsquo;re looking for passionate individuals who want to make a difference and grow with us. If you&amp;rsquo;re excited about building the future of SaaS and working with cutting-edge technology, we&amp;rsquo;d love to hear from you.&lt;/p></description></item><item><title>License</title><link>https://rctilford.github.io/tech-care-by-rhys/license/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/license/</guid><description>&lt;h2 id="mit-license">MIT License&lt;/h2>
+&lt;p>Our developer experience focuses on making it easy to build, customize, and maintain your website while following best practices and maintaining clean, efficient code.&lt;/p></description></item><item><title>License</title><link>https://rctilford.github.io/tech-care-by-rhys/license/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/license/</guid><description>&lt;h2 id="mit-license">MIT License&lt;/h2>
 &lt;p>Copyright (c) 2024&lt;/p>
 &lt;p>Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal

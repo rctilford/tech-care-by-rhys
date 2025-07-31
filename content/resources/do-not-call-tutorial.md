@@ -1,11 +1,11 @@
 ---
-title: "Customizing Your Hugo Theme: A Deep Dive"
-date: 2023-07-21
-author: "Jane Smith"
-description: "Learn how to customize your Hugo theme to create a unique website that matches your brand and requirements."
-categories: ["Development"]
-tags: ["hugo", "themes", "customization", "web-design"]
-featured_image: "/images/blog/blog-2.webp"
+title: "How To Add Your Number To The National Do Not Call List"
+date: 2025-07-30
+author: "Rhys Tilford"
+description: "Learn how to protect your phone number from telemarketers and scam callers."
+categories: ["Security"]
+tags: ["data-privacy", "cyber-security", "scam-reduction", "telemarketing"]
+featured_image: "images/blog/blog-2.webp"
 ---
 
 {{< toc >}}

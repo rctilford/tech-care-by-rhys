@@ -1,11 +1,11 @@
 ---
-title: "Deploying Hugo Sites: A Complete Guide"
-date: 2023-07-22
-author: "Alex Johnson"
-description: "Learn how to deploy your Hugo site to various platforms including Netlify, Vercel, and GitHub Pages."
-categories: ["Deployment"]
-tags: ["hugo", "deployment", "netlify", "vercel", "github-pages"]
-featured_image: "/images/blog/blog-3.webp"
+title: "How To Freeze Your Credit Report & Why You Probably Should"
+date: 2025-07-31
+author: "Rhys Tilford"
+description: "Learn how to protect yourself from identity theft by making sure no one can open a line of credit in your name."
+categories: ["Security"]
+tags: ["data-privacy", "cyber-security", "scam-reduction", "identity-theft"]
+featured_image: "images/blog/blog-3.webp"
 ---
 
 {{< toc >}}

@@ -1,11 +1,11 @@
 ---
-title: "Content Management in Hugo: Best Practices"
-date: 2023-07-24
-author: "Michael Park"
-description: "Learn effective strategies for managing content in Hugo, from organizing your content structure to implementing taxonomies and creating dynamic content relationships."
-categories: ["Content"]
-tags: ["hugo", "content-management", "organization", "workflow"]
-featured_image: "/images/blog/blog-5.jpg"
+title: "How To Remove Your Info From Data Brokers"
+date: 2025-07-30
+author: "Rhys Tilford"
+description: "Learn how to mail opt out requests to the world's largest data brokers."
+categories: ["Security"]
+tags: ["data-privacy", "cyber-security", "data-brokers", "scam-reduction"]
+featured_image: "images/blog/blog-5.jpg"
 ---
 
 {{< toc >}}
