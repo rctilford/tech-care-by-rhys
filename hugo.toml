@@ -218,3 +218,11 @@ paginatePath = "page"
     name = "Privacy Policy"
     url = "/privacy"
     weight = 2
+  [[menu.footer_column_3]]
+    name = "Terms Of Service"
+    url = "/terms-of-service"
+    weight = 3
+  [[menu.footer_column_3]]
+    name = "Get In Touch"
+    url = "/contact-me"
+    weight = 4

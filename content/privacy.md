@@ -80,9 +80,10 @@ I may update my Privacy Policy from time to time. I will notify you of any chang
 
 ## Contact Me
 
-If you have questions about this Privacy Policy, please contact me at:
+If you have questions about this Privacy Policy, please contact me by filling out the form at the page linked below.
 
-* **Email:** rhystilford
-* **Address:** 123 Tech Street, San Francisco, CA 94105
+<a href="../contact-me">
+<button class="px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors duration-200">Get In Touch</button>
+</a>
 
 *Last Updated: July 2025*

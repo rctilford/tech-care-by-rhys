@@ -469,7 +469,36 @@
 &lt;li>Troubleshooting guide&lt;/li>
 &lt;li>Deployment instructions&lt;/li>
 &lt;/ul>
-&lt;p>Our developer experience focuses on making it easy to build, customize, and maintain your website while following best practices and maintaining clean, efficient code.&lt;/p></description></item><item><title>License</title><link>https://rctilford.github.io/tech-care-by-rhys/license/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/license/</guid><description>&lt;h2 id="mit-license">MIT License&lt;/h2>
+&lt;p>Our developer experience focuses on making it easy to build, customize, and maintain your website while following best practices and maintaining clean, efficient code.&lt;/p></description></item><item><title>Get In Touch</title><link>https://rctilford.github.io/tech-care-by-rhys/contact-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/contact-me/</guid><description>&lt;div class="bg-primary-50 p-6 rounded-lg">
+&lt;form
+ action="https://formspree.io/f/mgvzazed"
+ class="fs-form"
+ target="_top"
+ method="POST"
+>
+ &lt;div class="space-y-3">
+ &lt;label class="text-sm text-gray-600 mb-4" for="name">Your Name&lt;/label>
+ &lt;input class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500" id="name" name="name" required />
+ &lt;/div>
+ &lt;div class="space-y-3">
+ &lt;label class="text-sm text-gray-600 mb-4" for="email">Email&lt;/label>
+ &lt;input class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500" id="email" name="email" required />
+ &lt;/div>
+ &lt;div class="space-y-3">
+ &lt;label class="text-sm text-gray-600 mb-4" for="message">Message&lt;/label>
+ &lt;textarea
+ class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
+ id="message"
+ name="message"
+ placeholder="What would you like to discuss?"
+ required
+ >&lt;/textarea>
+ &lt;/div>
+ &lt;div class="fs-button-group">
+ &lt;button class="w-full px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors duration-200" type="submit">Submit&lt;/button>
+ &lt;/div>
+&lt;/form>
+&lt;/div></description></item><item><title>License</title><link>https://rctilford.github.io/tech-care-by-rhys/license/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/license/</guid><description>&lt;h2 id="mit-license">MIT License&lt;/h2>
 &lt;p>Copyright (c) 2024&lt;/p>
 &lt;p>Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal
@@ -605,4 +634,14 @@ Analyzing usage patterns to improve my services&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2 id="data-security">Data Security&lt;/h2>
-&lt;p>I implement appropriate technical and organizational security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure.&lt;/p></description></item></channel></rss>
+&lt;p>I implement appropriate technical and organizational security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure.&lt;/p></description></item><item><title>Terms Of Service</title><link>https://rctilford.github.io/tech-care-by-rhys/terms-of-service/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/terms-of-service/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;hr>
+&lt;h2 id="changes-to-this-policy">Changes to This Policy&lt;/h2>
+&lt;p>I may update my Terms of Service from time to time. I will notify you of any changes by posting the new Terms of Service on this page and updating the &amp;ldquo;Last Updated&amp;rdquo; date.&lt;/p>
+&lt;hr>
+&lt;h2 id="contact-me">Contact Me&lt;/h2>
+&lt;p>If you have questions about this Privacy Policy, please contact me by filling out the form at the page linked below.&lt;/p>
+&lt;a href="../contact-me">
+&lt;button class="px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors duration-200">Get In Touch&lt;/button>
+&lt;/a>
+&lt;p>&lt;em>Last Updated: July 2025&lt;/em>&lt;/p></description></item></channel></rss>
