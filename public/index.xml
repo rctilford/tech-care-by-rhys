@@ -367,7 +367,49 @@
  &lt;button class="w-full px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors duration-200" type="submit">Submit&lt;/button>
  &lt;/div>
  &lt;/fieldset>
- &lt;p class="text-xs text-gray-500 mt-2">We respect your privacy. Unsubscribe at any time.&lt;/p></description></item><item><title>Everything Else</title><link>https://rctilford.github.io/tech-care-by-rhys/services/everything-else/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/services/everything-else/</guid><description/></item><item><title>Get In Touch</title><link>https://rctilford.github.io/tech-care-by-rhys/contact-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/contact-me/</guid><description>&lt;div class="bg-primary-50 p-6 rounded-lg">
+ &lt;p class="text-xs text-gray-500 mt-2">We respect your privacy. Unsubscribe at any time.&lt;/p></description></item><item><title>Everything Else</title><link>https://rctilford.github.io/tech-care-by-rhys/services/everything-else/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/services/everything-else/</guid><description>&lt;svg width="320" height="200" viewBox="0 0 320 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;rect width="320" height="200" rx="12" fill="#F5F7FA" />
+ &lt;rect x="60" y="80" width="100" height="60" rx="8" fill="#E0E4EC" stroke="#B0B8C9" stroke-width="1.5"/>
+ &lt;rect x="70" y="90" width="80" height="20" rx="3" fill="#D8DBF8"/>
+ &lt;rect x="80" y="120" width="60" height="10" rx="2" fill="#EEF1F8"/>
+ &lt;path d="M120 80 L135 65 L155 65 L140 80 H120 Z" fill="#D8DBF8" stroke="#B0B8C9" stroke-width="1.5"/>
+ &lt;rect x="125" y="65" width="25" height="10" fill="#EEF1F8"/>
+ &lt;path d="M165 95 C165 90 170 85 175 85 L180 85 L180 125 L175 125 C170 125 165 120 165 115 L155 115 L155 95 Z" fill="#9CA3AF"/>
+ &lt;rect x="158" y="100" width="34" height="10" fill="#9CA3AF" />
+ &lt;circle cx="205" cy="105" r="5" fill="#9CA3AF"/>
+ &lt;rect x="90" y="130" width="40" height="15" rx="4" fill="#A5B4FC"/>
+&lt;/svg>
+&lt;hr>
+&lt;svg width="320" height="200" viewBox="0 0 320 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;rect width="320" height="200" rx="12" fill="#F5F7FA" />
+ &lt;rect x="50" y="50" width="150" height="90" rx="10" fill="#E0E4EC" stroke="#B0B8C9" stroke-width="1.5"/>
+ &lt;rect x="60" y="60" width="130" height="70" rx="6" fill="#EEF1F8"/>
+ &lt;rect x="115" y="140" width="20" height="5" rx="2" fill="#CBD5E1"/>
+ &lt;rect x="40" y="145" width="170" height="20" rx="4" fill="#E0E4EC" stroke="#B0B8C9" stroke-width="1.5"/>
+ &lt;rect x="45" y="150" width="160" height="10" rx="2" fill="#D8DBF8"/>
+ &lt;rect x="120" y="152" width="10" height="6" rx="1" fill="#CBD5E1"/>
+ &lt;path d="M230 85 L235 80 L240 85 L235 90 Z" fill="#A5B4FC"/>
+ &lt;path d="M250 95 L255 90 L260 95 L255 100 Z" fill="#A5B4FC"/>
+ &lt;path d="M240 110 L245 105 L250 110 L245 115 Z" fill="#A5B4FC"/>
+&lt;/svg>
+&lt;hr>
+&lt;svg width="320" height="200" viewBox="0 0 320 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;!-- Background Frame -->
+ &lt;rect width="320" height="200" rx="12" fill="#F5F7FA" />
+ &lt;!-- Computer Monitor -->
+ &lt;rect x="70" y="70" width="120" height="80" rx="8" fill="#E0E4EC" stroke="#B0B8C9" stroke-width="1.5"/>
+ &lt;rect x="80" y="80" width="100" height="60" rx="6" fill="#EEF1F8"/>
+ &lt;rect x="120" y="150" width="20" height="5" rx="2" fill="#CBD5E1"/>
+ &lt;!-- Wi-Fi Signal (Updated) -->
+ &lt;!-- Inner arc -->
+ &lt;path d="M120 100 C120 90 140 90 140 100" stroke="#A5B4FC" stroke-width="2" stroke-linecap="round"/>
+ &lt;!-- Middle arc -->
+ &lt;path d="M110 105 C110 85 150 85 150 105" stroke="#A5B4FC" stroke-width="2" stroke-linecap="round"/>
+ &lt;!-- Outer arc -->
+ &lt;path d="M100 110 C100 80 160 80 160 110" stroke="#A5B4FC" stroke-width="2" stroke-linecap="round"/>
+ &lt;!-- Center dot -->
+ &lt;circle cx="130" cy="115" r="3" fill="#A5B4FC" />
+&lt;/svg></description></item><item><title>Get In Touch</title><link>https://rctilford.github.io/tech-care-by-rhys/contact-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/contact-me/</guid><description>&lt;div class="bg-primary-50 p-6 rounded-lg">
 &lt;form
  action="https://formspree.io/f/mgvzazed"
  class="fs-form"
@@ -412,7 +454,33 @@ furnished to do so, subject to the following conditions:&lt;/p></description></i
 &lt;li>&lt;strong>Disk&lt;/strong>: View your media with any disk player.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Pricing</title><link>https://rctilford.github.io/tech-care-by-rhys/pricing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/pricing/</guid><description>&lt;section class="py-16 bg-white">
+&lt;/ul>
+&lt;svg width="320" height="200" viewBox="0 0 320 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;!-- Background Frame -->
+ &lt;rect width="320" height="200" rx="12" fill="#F5F7FA" />
+ &lt;!-- VHS Tape -->
+ &lt;rect x="40" y="80" width="80" height="50" rx="4" fill="#E0E4EC" stroke="#B0B8C9" stroke-width="1.5"/>
+ &lt;circle cx="55" cy="105" r="8" fill="#A5B4FC"/>
+ &lt;circle cx="105" cy="105" r="8" fill="#A5B4FC"/>
+ &lt;rect x="65" y="95" width="30" height="20" rx="3" fill="#D8DBF8"/>
+ &lt;!-- Tape Deck -->
+ &lt;rect x="35" y="75" width="90" height="60" rx="6" stroke="#C1C9D9" stroke-width="2" fill="none"/>
+ &lt;rect x="40" y="130" width="80" height="6" rx="2" fill="#CBD5E1"/>
+ &lt;!-- Arrow -->
+ &lt;path d="M130 105 H185" stroke="#9CA3AF" stroke-width="3" marker-end="url(#arrowhead)" />
+ &lt;defs>
+ &lt;marker id="arrowhead" markerWidth="10" markerHeight="7" refX="8" refY="3.5" orient="auto">
+ &lt;polygon points="0 0, 10 3.5, 0 7" fill="#9CA3AF"/>
+ &lt;/marker>
+ &lt;/defs>
+ &lt;!-- Computer Monitor -->
+ &lt;rect x="205" y="77" width="70" height="50" rx="6" fill="#A5B4FC"/>
+ &lt;rect x="210" y="82" width="60" height="40" rx="4" fill="#EEF1F8"/>
+ &lt;rect x="220" y="92" width="20" height="20" rx="2" fill="#C7D2FE"/>
+ &lt;rect x="245" y="92" width="15" height="5" rx="1" fill="#D8DBF8"/>
+ &lt;rect x="245" y="102" width="15" height="5" rx="1" fill="#D8DBF8"/>
+ &lt;rect x="215" y="132" width="50" height="5" rx="2" fill="#CBD5E1"/>
+&lt;/svg></description></item><item><title>Pricing</title><link>https://rctilford.github.io/tech-care-by-rhys/pricing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/pricing/</guid><description>&lt;section class="py-16 bg-white">
  &lt;div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
  
  &lt;div class="text-center">
