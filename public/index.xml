@@ -253,53 +253,7 @@
  
  &lt;/div>
  &lt;h3 class="text-xl font-bold mb-1">Rhys Tilford&lt;/h3>
- &lt;p class="text-gray-600">Data Analysis Student at Georgia Tech&lt;/p></description></item><item><title>Beautiful Design System</title><link>https://rctilford.github.io/tech-care-by-rhys/services/everything-else/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/services/everything-else/</guid><description>&lt;h2 id="comprehensive-design-system">Comprehensive Design System&lt;/h2>
-&lt;p>Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.&lt;/p>
-&lt;h3 id="design-components">Design Components&lt;/h3>
-&lt;h4 id="core-elements">Core Elements&lt;/h4>
-&lt;ul>
-&lt;li>Typography system with perfect vertical rhythm&lt;/li>
-&lt;li>Color palette with semantic variables&lt;/li>
-&lt;li>Spacing and sizing scales&lt;/li>
-&lt;li>Grid and layout systems&lt;/li>
-&lt;/ul>
-&lt;h4 id="ui-components">UI Components&lt;/h4>
-&lt;ul>
-&lt;li>Navigation components (headers, footers, menus)&lt;/li>
-&lt;li>Hero sections and feature displays&lt;/li>
-&lt;li>Cards and content containers&lt;/li>
-&lt;li>Forms and input elements&lt;/li>
-&lt;li>Buttons and CTAs&lt;/li>
-&lt;li>Pricing tables&lt;/li>
-&lt;li>Testimonial displays&lt;/li>
-&lt;li>Team member profiles&lt;/li>
-&lt;/ul>
-&lt;h4 id="design-features">Design Features&lt;/h4>
-&lt;h5 id="customization">Customization&lt;/h5>
-&lt;ul>
-&lt;li>Easy theme customization through TailwindCSS&lt;/li>
-&lt;li>Brand color management&lt;/li>
-&lt;li>Typography customization&lt;/li>
-&lt;li>Spacing system adjustment&lt;/li>
-&lt;li>Component variants&lt;/li>
-&lt;/ul>
-&lt;h5 id="accessibility">Accessibility&lt;/h5>
-&lt;ul>
-&lt;li>WCAG 2.1 compliant components&lt;/li>
-&lt;li>Proper ARIA attributes&lt;/li>
-&lt;li>Keyboard navigation support&lt;/li>
-&lt;li>High contrast mode support&lt;/li>
-&lt;li>Screen reader optimized&lt;/li>
-&lt;/ul>
-&lt;h5 id="responsive-design">Responsive Design&lt;/h5>
-&lt;ul>
-&lt;li>Mobile-first approach&lt;/li>
-&lt;li>Breakpoint system&lt;/li>
-&lt;li>Fluid typography&lt;/li>
-&lt;li>Adaptive layouts&lt;/li>
-&lt;li>Touch-friendly interactions&lt;/li>
-&lt;/ul>
-&lt;p>Our design system provides the perfect foundation for creating beautiful, accessible, and responsive websites that stand out from the crowd.&lt;/p></description></item><item><title>Book A Consult</title><link>https://rctilford.github.io/tech-care-by-rhys/book-consult/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/book-consult/</guid><description>&lt;div class="bg-primary-50 p-6 rounded-lg">
+ &lt;p class="text-gray-600">Data Analysis Student at Georgia Tech&lt;/p></description></item><item><title>Book A Consult</title><link>https://rctilford.github.io/tech-care-by-rhys/book-consult/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/book-consult/</guid><description>&lt;div class="bg-primary-50 p-6 rounded-lg">
 &lt;form
  action="https://formspree.io/f/mgvzazed"
  class="fs-form"
@@ -413,63 +367,7 @@
  &lt;button class="w-full px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors duration-200" type="submit">Submit&lt;/button>
  &lt;/div>
  &lt;/fieldset>
- &lt;p class="text-xs text-gray-500 mt-2">We respect your privacy. Unsubscribe at any time.&lt;/p></description></item><item><title>Developer Experience</title><link>https://rctilford.github.io/tech-care-by-rhys/services/virus-removal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/services/virus-removal/</guid><description>&lt;h2 id="built-for-developers">Built for Developers&lt;/h2>
-&lt;p>Our theme is designed with developers in mind, providing a clean, efficient workflow that makes building websites enjoyable and productive.&lt;/p>
-&lt;h3 id="development-features">Development Features&lt;/h3>
-&lt;h4 id="project-structure">Project Structure&lt;/h4>
-&lt;ul>
-&lt;li>Logical directory organization&lt;/li>
-&lt;li>Clear separation of concerns&lt;/li>
-&lt;li>Modular component architecture&lt;/li>
-&lt;li>Consistent naming conventions&lt;/li>
-&lt;/ul>
-&lt;h4 id="development-workflow">Development Workflow&lt;/h4>
-&lt;ul>
-&lt;li>Fast hot reload development server&lt;/li>
-&lt;li>Automatic asset processing&lt;/li>
-&lt;li>Source maps for debugging&lt;/li>
-&lt;li>Build process optimization&lt;/li>
-&lt;/ul>
-&lt;h4 id="component-system">Component System&lt;/h4>
-&lt;h5 id="shortcodes">Shortcodes&lt;/h5>
-&lt;ul>
-&lt;li>Rich set of pre-built shortcodes&lt;/li>
-&lt;li>Easy to create custom shortcodes&lt;/li>
-&lt;li>Documentation for each shortcode&lt;/li>
-&lt;li>Example implementations&lt;/li>
-&lt;/ul>
-&lt;h5 id="partials">Partials&lt;/h5>
-&lt;ul>
-&lt;li>Reusable partial templates&lt;/li>
-&lt;li>Context-aware components&lt;/li>
-&lt;li>Easy to extend and modify&lt;/li>
-&lt;li>Clear documentation&lt;/li>
-&lt;/ul>
-&lt;h4 id="customization">Customization&lt;/h4>
-&lt;h5 id="configuration">Configuration&lt;/h5>
-&lt;ul>
-&lt;li>Central configuration file&lt;/li>
-&lt;li>Environment variables support&lt;/li>
-&lt;li>Feature flags&lt;/li>
-&lt;li>Easy theme customization&lt;/li>
-&lt;/ul>
-&lt;h5 id="styling">Styling&lt;/h5>
-&lt;ul>
-&lt;li>TailwindCSS integration&lt;/li>
-&lt;li>PostCSS processing&lt;/li>
-&lt;li>Custom CSS support&lt;/li>
-&lt;li>Design token system&lt;/li>
-&lt;/ul>
-&lt;h4 id="documentation">Documentation&lt;/h4>
-&lt;ul>
-&lt;li>Getting started guide&lt;/li>
-&lt;li>Component documentation&lt;/li>
-&lt;li>Configuration reference&lt;/li>
-&lt;li>Best practices&lt;/li>
-&lt;li>Troubleshooting guide&lt;/li>
-&lt;li>Deployment instructions&lt;/li>
-&lt;/ul>
-&lt;p>Our developer experience focuses on making it easy to build, customize, and maintain your website while following best practices and maintaining clean, efficient code.&lt;/p></description></item><item><title>Get In Touch</title><link>https://rctilford.github.io/tech-care-by-rhys/contact-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/contact-me/</guid><description>&lt;div class="bg-primary-50 p-6 rounded-lg">
+ &lt;p class="text-xs text-gray-500 mt-2">We respect your privacy. Unsubscribe at any time.&lt;/p></description></item><item><title>Everything Else</title><link>https://rctilford.github.io/tech-care-by-rhys/services/everything-else/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/services/everything-else/</guid><description/></item><item><title>Get In Touch</title><link>https://rctilford.github.io/tech-care-by-rhys/contact-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/contact-me/</guid><description>&lt;div class="bg-primary-50 p-6 rounded-lg">
 &lt;form
  action="https://formspree.io/f/mgvzazed"
  class="fs-form"
@@ -637,4 +535,4 @@ Analyzing usage patterns to improve my services&lt;/li>
 &lt;p>I implement appropriate technical and organizational security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure.&lt;/p></description></item><item><title>Terms Of Use</title><link>https://rctilford.github.io/tech-care-by-rhys/terms-of-service/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/terms-of-service/</guid><description>&lt;h2 id="tech-care-by-rhys-terms-of-use">Tech Care by Rhys Terms of Use&lt;/h2>
 &lt;p>Effective as of 7/31/2025&lt;/p>
 &lt;hr>
-&lt;p>Welcome to the Tech Care by Rhys Terms of Use agreement. For purposes of this agreement, “Site” refers to the Company’s website, which can be accessed at &lt;a href="https://rctilford.github.io/tech-care-by-rhys">https://rctilford.github.io/tech-care-by-rhys&lt;/a>. “Service” refers to the Company’s services accessed via the Site, in which users can request technical support and contact us. The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of our Site or our Service.&lt;/p></description></item></channel></rss>
+&lt;p>Welcome to the Tech Care by Rhys Terms of Use agreement. For purposes of this agreement, “Site” refers to the Company’s website, which can be accessed at &lt;a href="https://rctilford.github.io/tech-care-by-rhys">https://rctilford.github.io/tech-care-by-rhys&lt;/a>. “Service” refers to the Company’s services accessed via the Site, in which users can request technical support and contact us. The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of our Site or our Service.&lt;/p></description></item><item><title>Virus Removal &amp; OS Recovery</title><link>https://rctilford.github.io/tech-care-by-rhys/services/virus-removal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rctilford.github.io/tech-care-by-rhys/services/virus-removal/</guid><description/></item></channel></rss>

@@ -11,9 +11,8 @@ features:
     description: "Tapes, disks, and pictures take up a lot of space. Your entire media collection could fit on one computer drive."
   - title: "Easy Access"
     description: "Access all of your memories without digging around the attic."
-demo:
-  description: "See how our optimized build process delivers lightning-fast page loads and smooth transitions."
-  image: "/images/feature-1.svg"
+  - title: "Ready To Stand The Test Of Time"
+    description: "Tapes can tear or melt. Photos fade in sunlight and crinkle in water damage. Digital files are safe from these threats."
 ---
 
 ### Maximum Flexibility
